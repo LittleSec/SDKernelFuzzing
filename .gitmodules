@@ -1,0 +1,6 @@
+[submodule "LKSAST"]
+	path = LKSAST
+	url = https://github.com/LittleSec/LKSAST
+[submodule "src/github.com/google/sysdepller"]
+	path = src/github.com/google/sysdepller
+	url = https://github.com/LittleSec/sysdepller
